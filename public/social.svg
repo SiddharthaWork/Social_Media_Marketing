@@ -1,0 +1,49 @@
+<svg width="464" height="470" viewBox="0 0 464 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_901_2234)">
+  <line x1="48.5254" y1="249.887" x2="425.055" y2="249.887" stroke="black" stroke-opacity="0.26"/>
+  <line x1="237.243" y1="62.123" x2="237.243" y2="438.654" stroke="black" stroke-opacity="0.26"/>
+  <line x1="377.672" y1="124.999" x2="97.0085" y2="376.004" stroke="black" stroke-opacity="0.26"/>
+  <line x1="374.631" y1="375.614" x2="96.3383" y2="121.983" stroke="black" stroke-opacity="0.26"/>
+  
+  <!-- Circle with adjusted radius -->
+  <g filter="url(#filter1_d_901_2234)">
+    <circle cx="391.288" cy="115.945" r="37.9588" fill="white"/>
+    <circle cx="391.288" cy="115.945" r="37.9588" stroke="#29AAE1"/>
+  </g>
+  
+  <g filter="url(#filter2_d_901_2234)">
+    <circle cx="391.288" cy="375.425" r="37.9588" fill="white"/>
+    <circle cx="391.288" cy="375.425" r="37.9588" stroke="#29AAE1"/>
+  </g>
+  
+  <g filter="url(#filter3_d_901_2234)">
+    <circle cx="80.8187" cy="376.557" r="37.9588" fill="white"/>
+    <circle cx="80.8187" cy="376.557" r="37.9588" stroke="#29AAE1"/>
+  </g>
+  
+  <g filter="url(#filter4_d_901_2234)">
+    <circle cx="80.8187" cy="115.945" r="37.9588" fill="white"/>
+    <circle cx="80.8187" cy="115.945" r="37.9588" stroke="#29AAE1"/>
+  </g>
+  
+  <g filter="url(#filter5_d_901_2234)">
+    <circle cx="236.054" cy="47.9588" r="37.9588" fill="white"/>
+    <circle cx="236.054" cy="47.9588" r="37.9588" stroke="#29AAE1"/>
+  </g>
+  
+  <g filter="url(#filter6_d_901_2234)">
+    <circle cx="236.054" cy="421.882" r="37.9588" fill="white"/>
+    <circle cx="236.054" cy="421.882" r="37.9588" stroke="#29AAE1"/>
+  </g>
+  
+  <g filter="url(#filter7_d_901_2234)">
+    <circle cx="47.9588" cy="248.517" r="37.9588" fill="white"/>
+    <circle cx="47.9588" cy="248.517" r="37.9588" stroke="#29AAE1"/>
+  </g>
+  
+  <g filter="url(#filter8_d_901_2234)">
+    <circle cx="415.083" cy="248.517" r="37.9588" fill="white"/>
+    <circle cx="415.083" cy="248.517" r="37.9588" stroke="#29AAE1"/>
+  </g>
+</g>
+</svg>
